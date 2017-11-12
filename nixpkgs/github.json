@@ -1,6 +1,7 @@
 {
-  "owner": "obsidiansystems",
+  "owner": "dridus",
   "repo": "nixpkgs",
-  "rev": "2a67cb6dd04a5d856a79e7751a5f4d296a751a50",
-  "sha256": "1v3x21wn6sgwvavkb41dksdswrj9xvx8lr70lffpg9x9vq1cbdc3"
+  "rev": "7fe474c4f8dbc0b86fea3a4c55e8e606ec355047",
+  "sha256": "09n06ssg8gwvmzkya8x5ixb9p3kwxaq7vpj0p5fkwx23d4pmr7mf",
+  "fetchSubmodules": true
 }
